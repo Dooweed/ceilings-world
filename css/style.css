@@ -809,7 +809,7 @@ header{
 	margin-bottom: 50px;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	display: flex;
+	display: none; /* Change to flex to make section_6 visible */
 	justify-content: center;
 	background-color: #d9534f;
 	background-image: url(../images/background_header.jpg);
